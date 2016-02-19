@@ -1,8 +1,8 @@
 package main 
 
 import "fmt"
-import "github.com/liujianping/wechat"
-import "github.com/liujianping/wechat/entry"
+import "github.com/liujieking/wechat"
+import "github.com/liujieking/wechat/entry"
 
 type Echo struct{
 	Name string
